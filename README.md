@@ -88,5 +88,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 Happy coding on Solana! 🚀
 ```
-
-Feel free to customize this README further to include any specific details or features unique to your project. Let me know if you'd like to add or modify anything!
